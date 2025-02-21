@@ -5921,6 +5921,20 @@ available-typed-arrays@^1.0.7:
   dependencies:
     possible-typed-array-names "^1.0.0"
 
+aws-amplify@6.12.3:
+  version "6.12.3"
+  resolved "https://registry.yarnpkg.com/aws-amplify/-/aws-amplify-6.12.3.tgz#244fde37f696b6494208196c9e18c5f765baf55a"
+  integrity sha512-i8kzMRWTvn6SptsfrfHWMSzgURU7H4bO8C6zZowTUufEbxaZTAmN/peNE5gHU9IcPle4IlS6PJFTyPav9PLZDg==
+  dependencies:
+    "@aws-amplify/analytics" "7.0.68"
+    "@aws-amplify/api" "6.2.3"
+    "@aws-amplify/auth" "6.10.2"
+    "@aws-amplify/core" "6.9.3"
+    "@aws-amplify/datastore" "5.0.70"
+    "@aws-amplify/notifications" "2.0.68"
+    "@aws-amplify/storage" "6.7.9"
+    tslib "^2.5.0"
+
 aws-jwt-verify@^4.0.1:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/aws-jwt-verify/-/aws-jwt-verify-4.0.1.tgz#d5f36f80f3d1cbe8ffa638347bb80daf72f6ae61"

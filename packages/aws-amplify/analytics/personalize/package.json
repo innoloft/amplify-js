@@ -1,5 +1,5 @@
 {
-	"name": "aws-amplify/analytics/personalize",
+	"name": "@innoloft/amplify-js/analytics/personalize",
 	"main": "../../dist/cjs/analytics/personalize/index.js",
 	"react-native": "../../src/analytics/personalize/index.ts",
 	"browser": "../../dist/esm/analytics/personalize/index.mjs",

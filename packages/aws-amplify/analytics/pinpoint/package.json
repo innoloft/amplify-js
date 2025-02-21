@@ -1,5 +1,5 @@
 {
-	"name": "aws-amplify/analytics/pinpoint",
+	"name": "@innoloft/amplify-js/analytics/pinpoint",
 	"main": "../../dist/cjs/analytics/pinpoint/index.js",
 	"react-native": "../../src/analytics/pinpoint/index.ts",
 	"browser": "../../dist/esm/analytics/pinpoint/index.mjs",

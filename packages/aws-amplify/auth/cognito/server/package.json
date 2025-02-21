@@ -1,5 +1,5 @@
 {
-	"name": "aws-amplify/auth/cognito/server",
+	"name": "@innoloft/amplify-js/auth/cognito/server",
 	"main": "../../../dist/cjs/auth/cognito/server/index.js",
 	"browser": "../../../dist/esm/auth/cognito/server/index.mjs",
 	"module": "../../../dist/esm/auth/cognito/server/index.mjs",

@@ -1,5 +1,5 @@
 {
-	"name": "aws-amplify/storage/s3/server",
+	"name": "@innoloft/amplify-js/storage/s3/server",
 	"main": "../../../dist/cjs/storage/s3/server.js",
 	"browser": "../../../dist/esm/storage/s3/server.mjs",
 	"module": "../../../dist/esm/storage/s3/server.mjs",
