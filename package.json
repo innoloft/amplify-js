@@ -1,7 +1,6 @@
 {
 	"name": "@innoloft/amplify-js",
-	"private": true,
-	"version": "0.1.30",
+	"version": "1.0.0",
 	"description": "Forked and fixed version of amplify-js",
 	"scripts": {
 		"setup-dev": "yarn && yarn bootstrap && yarn link-all && yarn build",
