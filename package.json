@@ -1,6 +1,7 @@
 {
-	"name": "@innoloft/amplify-js",
+	"name": "aws-amplify-monorepo",
 	"version": "1.0.0",
+	"private": true,
 	"description": "Forked and fixed version of amplify-js",
 	"scripts": {
 		"setup-dev": "yarn && yarn bootstrap && yarn link-all && yarn build",

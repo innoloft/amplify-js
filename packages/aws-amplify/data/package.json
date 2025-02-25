@@ -1,5 +1,5 @@
 {
-	"name": "@innoloft/amplify-js/data",
+	"name": "aws-amplify/data",
 	"main": "../dist/cjs/api/index.js",
 	"react-native": "../src/api/index.ts",
 	"browser": "../dist/esm/api/index.mjs",

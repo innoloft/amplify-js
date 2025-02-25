@@ -1,5 +1,5 @@
 {
-	"name": "@innoloft/amplify-js/analytics/kinesis",
+	"name": "aws-amplify/analytics/kinesis",
 	"main": "../../dist/cjs/analytics/kinesis/index.js",
 	"react-native": "../../src/analytics/kinesis/index.ts",
 	"browser": "../../dist/esm/analytics/kinesis/index.mjs",

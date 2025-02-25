@@ -1,5 +1,5 @@
 {
-	"name": "@innoloft/amplify-js/storage",
+	"name": "aws-amplify/storage",
 	"main": "../dist/cjs/storage/index.js",
 	"react-native": "../src/storage/index.ts",
 	"browser": "../dist/esm/storage/index.mjs",

@@ -1,5 +1,5 @@
 {
-	"name": "@innoloft/amplify-js/data/server",
+	"name": "aws-amplify/data/server",
 	"main": "../../dist/cjs/api/server.js",
 	"browser": "../../dist/esm/api/server.mjs",
 	"module": "../../dist/esm/api/server.mjs",
